@@ -1,3 +1,4 @@
 ./output
-./classes/__pycache__/
-./utils/./classes/__pycache__/
+*/__pycache__/*
+__pycache__
+
